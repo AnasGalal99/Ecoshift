@@ -1,0 +1,102 @@
+year,temperature_celsius,data_type
+2000,22.44,Historical Record
+2001,23.18,Historical Record
+2002,23.25,Historical Record
+2003,23.07,Historical Record
+2004,23.01,Historical Record
+2005,22.95,Historical Record
+2006,22.99,Historical Record
+2007,23.19,Historical Record
+2008,23.44,Historical Record
+2009,23.29,Historical Record
+2010,24.62,Historical Record
+2011,22.8,Historical Record
+2012,23.48,Historical Record
+2013,23.39,Historical Record
+2014,23.56,Historical Record
+2015,23.42,Historical Record
+2016,23.77,Historical Record
+2017,23.25,Historical Record
+2018,24.05,Historical Record
+2019,23.36,Historical Record
+2020,23.17,Historical Record
+2021,23.86,Historical Record
+2022,23.19,Historical Record
+2023,23.96,Historical Record
+2024,23.87,Historical Record
+2025,23.87,CMIP6 Model Projection (SSP2-4.5)
+2026,23.82,CMIP6 Model Projection (SSP2-4.5)
+2027,23.82,CMIP6 Model Projection (SSP2-4.5)
+2028,23.84,CMIP6 Model Projection (SSP2-4.5)
+2029,23.92,CMIP6 Model Projection (SSP2-4.5)
+2030,23.95,CMIP6 Model Projection (SSP2-4.5)
+2031,24.06,CMIP6 Model Projection (SSP2-4.5)
+2032,24.11,CMIP6 Model Projection (SSP2-4.5)
+2033,24.06,CMIP6 Model Projection (SSP2-4.5)
+2034,24.18,CMIP6 Model Projection (SSP2-4.5)
+2035,24.27,CMIP6 Model Projection (SSP2-4.5)
+2036,24.04,CMIP6 Model Projection (SSP2-4.5)
+2037,24.24,CMIP6 Model Projection (SSP2-4.5)
+2038,24.4,CMIP6 Model Projection (SSP2-4.5)
+2039,24.42,CMIP6 Model Projection (SSP2-4.5)
+2040,24.21,CMIP6 Model Projection (SSP2-4.5)
+2041,24.43,CMIP6 Model Projection (SSP2-4.5)
+2042,24.38,CMIP6 Model Projection (SSP2-4.5)
+2043,24.23,CMIP6 Model Projection (SSP2-4.5)
+2044,24.3,CMIP6 Model Projection (SSP2-4.5)
+2045,24.46,CMIP6 Model Projection (SSP2-4.5)
+2046,24.63,CMIP6 Model Projection (SSP2-4.5)
+2047,24.58,CMIP6 Model Projection (SSP2-4.5)
+2048,24.6,CMIP6 Model Projection (SSP2-4.5)
+2049,24.47,CMIP6 Model Projection (SSP2-4.5)
+2050,24.6,CMIP6 Model Projection (SSP2-4.5)
+2051,24.54,CMIP6 Model Projection (SSP2-4.5)
+2052,24.81,CMIP6 Model Projection (SSP2-4.5)
+2053,24.61,CMIP6 Model Projection (SSP2-4.5)
+2054,24.75,CMIP6 Model Projection (SSP2-4.5)
+2055,24.86,CMIP6 Model Projection (SSP2-4.5)
+2056,24.68,CMIP6 Model Projection (SSP2-4.5)
+2057,24.71,CMIP6 Model Projection (SSP2-4.5)
+2058,24.69,CMIP6 Model Projection (SSP2-4.5)
+2059,24.93,CMIP6 Model Projection (SSP2-4.5)
+2060,24.82,CMIP6 Model Projection (SSP2-4.5)
+2061,24.84,CMIP6 Model Projection (SSP2-4.5)
+2062,24.88,CMIP6 Model Projection (SSP2-4.5)
+2063,24.89,CMIP6 Model Projection (SSP2-4.5)
+2064,24.99,CMIP6 Model Projection (SSP2-4.5)
+2065,25.07,CMIP6 Model Projection (SSP2-4.5)
+2066,24.89,CMIP6 Model Projection (SSP2-4.5)
+2067,25.24,CMIP6 Model Projection (SSP2-4.5)
+2068,25.13,CMIP6 Model Projection (SSP2-4.5)
+2069,25.07,CMIP6 Model Projection (SSP2-4.5)
+2070,25.08,CMIP6 Model Projection (SSP2-4.5)
+2071,25.38,CMIP6 Model Projection (SSP2-4.5)
+2072,25.41,CMIP6 Model Projection (SSP2-4.5)
+2073,25.18,CMIP6 Model Projection (SSP2-4.5)
+2074,25.06,CMIP6 Model Projection (SSP2-4.5)
+2075,25.13,CMIP6 Model Projection (SSP2-4.5)
+2076,25.25,CMIP6 Model Projection (SSP2-4.5)
+2077,25.45,CMIP6 Model Projection (SSP2-4.5)
+2078,25.4,CMIP6 Model Projection (SSP2-4.5)
+2079,25.37,CMIP6 Model Projection (SSP2-4.5)
+2080,25.52,CMIP6 Model Projection (SSP2-4.5)
+2081,25.39,CMIP6 Model Projection (SSP2-4.5)
+2082,25.35,CMIP6 Model Projection (SSP2-4.5)
+2083,25.31,CMIP6 Model Projection (SSP2-4.5)
+2084,25.46,CMIP6 Model Projection (SSP2-4.5)
+2085,25.44,CMIP6 Model Projection (SSP2-4.5)
+2086,25.55,CMIP6 Model Projection (SSP2-4.5)
+2087,25.41,CMIP6 Model Projection (SSP2-4.5)
+2088,25.34,CMIP6 Model Projection (SSP2-4.5)
+2089,25.46,CMIP6 Model Projection (SSP2-4.5)
+2090,25.47,CMIP6 Model Projection (SSP2-4.5)
+2091,25.53,CMIP6 Model Projection (SSP2-4.5)
+2092,25.5,CMIP6 Model Projection (SSP2-4.5)
+2093,25.64,CMIP6 Model Projection (SSP2-4.5)
+2094,25.8,CMIP6 Model Projection (SSP2-4.5)
+2095,25.63,CMIP6 Model Projection (SSP2-4.5)
+2096,25.59,CMIP6 Model Projection (SSP2-4.5)
+2097,25.6,CMIP6 Model Projection (SSP2-4.5)
+2098,25.56,CMIP6 Model Projection (SSP2-4.5)
+2099,25.6,CMIP6 Model Projection (SSP2-4.5)
+2100,25.64,CMIP6 Model Projection (SSP2-4.5)
